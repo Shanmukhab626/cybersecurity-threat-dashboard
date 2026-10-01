@@ -4,7 +4,6 @@
 [![CMU](https://img.shields.io/badge/Central%20Michigan%20University-MS%20Information%20Systems-maroon?style=for-the-badge)](https://www.cmich.edu)
 [![NIST](https://img.shields.io/badge/Framework-NIST%20CSF-blue?style=for-the-badge)](https://www.nist.gov/cyberframework)
 
-> **Academic Project** · MS Information Systems (Cybersecurity Track) · Central Michigan University · 2026
 
 ---
 
@@ -133,4 +132,4 @@ Central Michigan University, Mount Pleasant, MI
 
 ---
 
-*This project was completed as part of the MS Information Systems Cybersecurity Track at Central Michigan University, 2026.*
+
